@@ -11,8 +11,8 @@
 <p>Modelagem de Sistemas 80h - Cursando ⏱️</p>
 
 <hr>
-<pre class="notranslate">
-<code align="center">GIT STATS</code>
+<pre align="center" class="notranslate">
+<code>GIT STATS</code>
 </pre>
 
 
