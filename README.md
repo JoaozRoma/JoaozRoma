@@ -23,17 +23,17 @@
 <p>Manutenção de Sistemas 30h - Cursando ⏱️</p>
 <p>Modelagem de Sistemas 80h - Cursando ⏱️</p>
 
-
-<pre align="center" class="notranslate">
+<div align="center">
+<pre class="notranslate">
 <code>GIT STATS</code>
 </pre>
+  </div>
 
 
 <div align="center">
   <a href="https://github.com/JoaozRoma">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaozRoma&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaozRoma&layout=compact&theme=dark"/>
-    
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaozRoma&layout=compact&theme=dark"/> 
 </div>
 
   <div style="display: inline_block"><br>
