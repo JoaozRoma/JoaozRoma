@@ -12,7 +12,7 @@
 
 <hr>
 <pre class="notranslate">
-<code text-align: center>GIT STATS</code>
+<code align="center">GIT STATS</code>
 </pre>
 
 
