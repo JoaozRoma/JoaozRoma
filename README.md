@@ -11,6 +11,10 @@
 <p>Modelagem de Sistemas 80h - Cursando ⏱️</p>
 
 <hr>
+<pre class="notranslate">
+<code>GIT STATS</code>
+</pre>
+
 
 <div align="center">
   <a href="https://github.com/JoaozRoma">
