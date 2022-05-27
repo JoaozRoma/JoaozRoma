@@ -1,5 +1,14 @@
 <p>Lógica de Programação 160h - Concluído ✔️ </p>
-<p>Lógica de Programação 160h - Concluído ✔️ </p>
+<p>Comunicação Oral Escrita 60h - Concluído ✔️</p>
+<p>Fundamentos da Técnica da Informação 40h - Concluído ✔️</p>
+<p>Informática Aplicada 80h - Concluído ✔️</p>
+<p>Banco de Dados (MySQL) 140h - Concluído ✔️</p>
+<p>Programação de aplicativos (Orientações objetos com Python) 160h - Concluído ✔️</p>
+<p>Teste de Sistemas 60h - Concluído ✔️</p>
+<p>Desenvolvimento de sistema 160h - Cursando ⏱️</p>
+<p>Implantação de Sistemas 30h - Cursando ⏱️</p>
+<p>Manutenção de Sistemas 30h - Cursando ⏱️</p>
+<p>Modelagem de Sistemas 80h - Cursando ⏱️</p>
 
 
 
