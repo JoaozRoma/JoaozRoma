@@ -1,10 +1,12 @@
 <pre align="center" class="notranslate">
 <code>SOBRE MIM</code>
 </pre>
+<p>
 Olá, me chamo João Roma!
 Atualmente, estou cursando Desenvolvimento de Sistemas no SENAI, e também participando do curso de Java pelo Entra21!
 Familiarizado com Python, MySQL, HTML, CSS e Java.
 Estudando atualmente a linguagem de Java.
+  </p>
 
 <pre align="center" class="notranslate">
 <code>MATERIA CURRICULARES</code>
