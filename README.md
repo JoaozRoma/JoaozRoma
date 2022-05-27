@@ -1,3 +1,15 @@
+<pre align="center" class="notranslate">
+<code>SOBRE MIM</code>
+</pre>
+Olá, me chamo João Roma!
+Atualmente, estou cursando Desenvolvimento de Sistemas no SENAI, e também participando do curso de Java pelo Entra21!
+Familiarizado com Python, MySQL, HTML, CSS e Java.
+Estudando atualmente a linguagem de Java.
+
+<pre align="center" class="notranslate">
+<code>MATERIA CURRICULARES</code>
+</pre>
+
 <p>Lógica de Programação 160h - Concluído ✔️ </p>
 <p>Comunicação Oral Escrita 60h - Concluído ✔️</p>
 <p>Fundamentos da Técnica da Informação 40h - Concluído ✔️</p>
@@ -10,7 +22,7 @@
 <p>Manutenção de Sistemas 30h - Cursando ⏱️</p>
 <p>Modelagem de Sistemas 80h - Cursando ⏱️</p>
 
-<hr>
+
 <pre align="center" class="notranslate">
 <code>GIT STATS</code>
 </pre>
