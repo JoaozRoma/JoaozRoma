@@ -1,15 +1,18 @@
-<pre align="center" class="notranslate">
+<div align="center">
+<pre class="notranslate">
 <code>SOBRE MIM</code>
 </pre>
+</div>
 <p>Olá, me chamo João Roma!  </p>
 <p>Atualmente, estou cursando Desenvolvimento de Sistemas no SENAI, e também participando do curso de Java pelo Entra21!  </p>
 <p>Familiarizado com Python, MySQL, HTML, CSS e Java.  </p>
 <p>Estudando atualmente a linguagem de Java.  </p>
 
-
-<pre align="center" class="notranslate">
+<div align="center">
+<pre class="notranslate">
 <code>MATERIA CURRICULARES</code>
 </pre>
+</div>
 
 <p>Lógica de Programação 160h - Concluído ✔️ </p>
 <p>Comunicação Oral Escrita 60h - Concluído ✔️</p>
@@ -27,7 +30,7 @@
 <pre class="notranslate">
 <code>GIT STATS</code>
 </pre>
-  </div>
+</div>
 
 
 <div align="center">
