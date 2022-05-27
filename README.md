@@ -10,7 +10,7 @@
 <p>Manutenção de Sistemas 30h - Cursando ⏱️</p>
 <p>Modelagem de Sistemas 80h - Cursando ⏱️</p>
 
-
+<hr>
 
 <div align="center">
   <a href="https://github.com/JoaozRoma">
