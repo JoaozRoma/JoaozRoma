@@ -24,7 +24,7 @@
 <p>Desenvolvimento de sistema 160h - Concluído ✔️</p>
 <p>Implantação de Sistemas 30h - Concluído ✔️</p>
 <p>Manutenção de Sistemas 30h - Concluído ✔️</p>
-<p>Modelagem de Sistemas 80h - Concluído ✔️⏱️</p>
+<p>Modelagem de Sistemas 80h - Concluído ✔️⏱</p>
 
 <div align="center">
 <pre class="notranslate">
