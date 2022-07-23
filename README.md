@@ -8,23 +8,6 @@
 <p>Familiarizado com Python, MySQL, HTML, CSS e Java.  </p>
 <p>Estudando atualmente a linguagem de Java.  </p>
 
-<div align="center">
-<pre class="notranslate">
-<code>MATERIA CURRICULARES</code>
-</pre>
-</div>
-
-<p>Lógica de Programação 160h - Concluído ✔️ </p>
-<p>Comunicação Oral Escrita 60h - Concluído ✔️</p>
-<p>Fundamentos da Técnica da Informação 40h - Concluído ✔️</p>
-<p>Informática Aplicada 80h - Concluído ✔️</p>
-<p>Banco de Dados (MySQL) 140h - Concluído ✔️</p>
-<p>Programação de aplicativos (Orientações objetos com Python) 160h - Concluído ✔️</p>
-<p>Teste de Sistemas 60h - Concluído ✔️</p>
-<p>Desenvolvimento de sistema 160h - Concluído ✔️</p>
-<p>Implantação de Sistemas 30h - Concluído ✔️</p>
-<p>Manutenção de Sistemas 30h - Concluído ✔️</p>
-<p>Modelagem de Sistemas 80h - Concluído ✔️</p>
 
 <div align="center">
 <pre class="notranslate">
