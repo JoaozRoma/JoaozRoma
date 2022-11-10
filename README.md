@@ -4,7 +4,7 @@
 </pre>
 </div>
 <p>Olá, me chamo João Roma!  </p>
-<p>Atualmente, estou cursando Desenvolvimento de Sistemas no SENAI, e também participando do curso de Java pelo Entra21!  </p>
+<p>Desenvolvimento de Sistemas pelo o SENAI e curso de Java pelo Entra21!  </p>
 <p>Familiarizado com Python, MySQL, HTML, CSS e Java.  </p>
 
 
